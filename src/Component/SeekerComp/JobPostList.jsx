@@ -30,7 +30,7 @@ import {
   CheckCircle,
   Cancel,
 } from "@mui/icons-material";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder"; // Adjust the path as necessary
 import Swal from "sweetalert2";
 
 const JobPostList = ({ seekerId }) => {

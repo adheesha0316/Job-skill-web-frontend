@@ -39,7 +39,7 @@ import {
   Assessment
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 
 import JobSeekerRegisterForm from "../../Component/SeekerComp/JobSeekerRegisterForm";
 import JobSeekerProfileCard from "../../Component/SeekerComp/JobSeekerProfileCard";

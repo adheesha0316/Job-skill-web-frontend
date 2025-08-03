@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import axiosInstance from '../../Service/axiosOder';
-import BlueCatLoader from '../../Component/BlueCatLoader';
+import axiosInstance from '../../Service/axiosOrder';
+import BlueCatLoader from '../../Component/BluCatLoader';
 import HomeHeader from '../../Component/DashboardComp/HomeHeader';
 import HomeBody from '../../Component/DashboardComp/HomeBody';
 import HomeFooter from '../../Component/DashboardComp/HomeFooter';

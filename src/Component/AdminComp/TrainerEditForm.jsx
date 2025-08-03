@@ -9,7 +9,7 @@ import {
   Stack,
 } from "@mui/material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder"; // Adjust the path as necessary
 
 const TrainerEditForm = ({ open, onClose, trainer }) => {
   const [formData, setFormData] = React.useState({ ...trainer });

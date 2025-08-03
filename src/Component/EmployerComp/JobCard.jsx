@@ -40,7 +40,7 @@ import {
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
 import ImageIcon from "@mui/icons-material/Image";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 
 const JobCard = ({
   job,

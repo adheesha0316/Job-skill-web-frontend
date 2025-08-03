@@ -44,7 +44,7 @@ import {
   CloudUpload,
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder"; // Adjust the path as necessary
 // Assuming axiosInstance is defined elsewhere and imported,
 // or you'll need to define it or import axios.
 // For example:

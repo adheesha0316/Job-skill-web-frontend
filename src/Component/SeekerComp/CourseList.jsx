@@ -20,7 +20,7 @@ import {
   MenuBook, // Changed from BookOpen to MenuBook
   CheckCircle,
 } from "@mui/icons-material";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 import Swal from "sweetalert2";
 
 const CourseList = ({ seekerId }) => {

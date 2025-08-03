@@ -64,7 +64,7 @@ import {
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
 import { useNavigate } from "react-router-dom";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 import EmployerEditForm from "../../Component/AdminComp/EmployerEditForm";
 import JobSeekerEditForm from "../../Component/AdminComp/JobSeekerEditForm";
 import TrainerEditForm from "../../Component/AdminComp/TrainerEditForm";

@@ -58,7 +58,7 @@ import {
   Visibility,
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 import JobCard from "../../Component/EmployerComp/JobCard";
 import RegisterEmployerForm from "../../Component/EmployerComp/RegisterEmployerForm";
 import ApplicationReview from "../../Component/EmployerComp/ApplicationReview";

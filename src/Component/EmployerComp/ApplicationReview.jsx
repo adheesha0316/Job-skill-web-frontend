@@ -28,7 +28,7 @@ import {
   CalendarToday,
   Refresh,
 } from "@mui/icons-material";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 import Swal from "sweetalert2";
 
 const ApplicationReview = ({ employerId }) => {

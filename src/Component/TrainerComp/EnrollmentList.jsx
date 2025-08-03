@@ -42,7 +42,7 @@ import {
   Cancel as CancelIcon
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 
 const EnrollmentList = ({ trainerId }) => {
   const [enrollments, setEnrollments] = useState([]);

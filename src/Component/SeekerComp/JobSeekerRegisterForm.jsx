@@ -33,7 +33,7 @@ import {
   Edit,
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder"; // Adjust the path as necessary
 
 const JobSeekerRegisterForm = ({ userId, onSuccess }) => {
   const [formData, setFormData] = useState({

@@ -31,7 +31,7 @@ import {
   Book as BookIcon,
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../Service/axiosOder";
+import axiosInstance from "../../Service/axiosOrder";
 
 const CourseManager = ({ trainerId }) => {
   const [courses, setCourses] = useState([]);
