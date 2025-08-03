@@ -6,7 +6,7 @@ import {
 } from "@mui/material";
 import SearchBar from "../DashboardSubComp/SearchBar";
 import FeaturedJobs from "../DashboardSubComp/FeaturedJobs";
-import TopCompanies from "../TopCompanies/TopCompanies";
+import TopCompanies from "../DashboardSubComp/TopCompanies";
 
 const HomeBody = () => {
   // Mock data for demonstration; replace with real data as needed
