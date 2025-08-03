@@ -13,7 +13,7 @@ import {
   People as PeopleIcon,
   Star as StarIcon,
 } from "@mui/icons-material";
-import DashboardNavbar from "../NavigationBar/DashboardNavbar";
+import DashboardNavbar from "../DashboardSubComp/DashboardNavbar";
 import UserRoleSelector from "../UserRoleSelector/UserRoleSelector";
 
 const HomeHeader = ({ username, onLogout }) => {
