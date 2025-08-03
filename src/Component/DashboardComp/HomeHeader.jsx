@@ -14,7 +14,7 @@ import {
   Star as StarIcon,
 } from "@mui/icons-material";
 import DashboardNavbar from "../DashboardSubComp/DashboardNavbar";
-import UserRoleSelector from "../UserRoleSelector/UserRoleSelector";
+import UserRoleSelector from "../DashboardSubComp/UserRoleSelector";
 
 const HomeHeader = ({ username, onLogout }) => {
   const [resultsCount] = useState(247); // This would come from your job data
