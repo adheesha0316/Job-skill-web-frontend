@@ -37,7 +37,7 @@ import {
 } from "@mui/icons-material";
 import { styled, alpha } from "@mui/material/styles";
 import Swal from "sweetalert2";
-import axiosInstance from "../../service/axiosOder";
+import axiosInstance from "../../Service/axiosOder";
 
 // Styled Components
 const StyledCard = styled(Card)(({ theme }) => ({

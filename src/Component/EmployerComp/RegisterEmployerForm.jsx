@@ -25,7 +25,7 @@ import {
   CheckCircle,
 } from "@mui/icons-material";
 import Swal from "sweetalert2";
-import axiosInstance from "../../service/axiosOder";
+import axiosInstance from "../../Service/axiosOder";
 
 const RegisterEmployerForm = ({ onSuccess }) => {
   const [formData, setFormData] = useState({
