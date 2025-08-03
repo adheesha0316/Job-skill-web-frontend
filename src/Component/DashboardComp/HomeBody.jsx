@@ -4,8 +4,8 @@ import {
   Container,
   Typography,
 } from "@mui/material";
-import SearchBar from "../JobSearch/SearchBar";
-import FeaturedJobs from "../FeaturedJob/FeaturedJob";
+import SearchBar from "../DashboardSubComp/SearchBar";
+import FeaturedJobs from "../DashboardSubComp/FeaturedJobs";
 import TopCompanies from "../TopCompanies/TopCompanies";
 
 const HomeBody = () => {
