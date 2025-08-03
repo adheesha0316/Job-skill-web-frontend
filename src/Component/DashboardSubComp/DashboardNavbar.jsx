@@ -109,7 +109,7 @@ const DashboardNavbar = ({ username, onLogout }) => {
           }}
           onClick={() => navigate("/")}
         >
-          Job.lk
+          JobFinder.lk
         </Typography>
 
         {/* Nav Links (hidden on small screens) */}
